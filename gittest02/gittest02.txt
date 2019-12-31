@@ -1,1 +1,2 @@
 远程仓库增加gittest02.txt 文件
+远程增加gittest02.txt 文件2
